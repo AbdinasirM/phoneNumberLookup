@@ -1,0 +1,1 @@
+loop through a list of country codes and search by the first three number of the number
