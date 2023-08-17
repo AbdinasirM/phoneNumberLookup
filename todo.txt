@@ -1,1 +1,12 @@
-loop through a list of country codes and search by the first three number of the number
+1. loop through a list of country codes and search by the first three number of the number and automatically 
+add the country code and the country format code from the file 
+
+
+2. create  a gui that takes an input with a serach button
+and display the info below the input
+
+
+
+3. refactor and add descriptive comments and read me file
+
+
