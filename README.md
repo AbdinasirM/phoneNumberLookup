@@ -59,9 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-[Mohamedwali Mumin]
-[https://www.linkedin.com/in/mohamedwali-mumin-253406260/]
-[Naima Mumin]
-[https://www.linkedin.com/in/naima-mumin-a48750270/]
-[Abdinasir Mumin]
-[https://www.linkedin.com/in/abdinasir-mumin-566b30177/]
+- [Mohamedwali Mumin](https://www.linkedin.com/in/mohamedwali-mumin-253406260/)
+- [Naima Mumin](https://www.linkedin.com/in/naima-mumin-a48750270/)
+- [Abdinasir Mumin](https://www.linkedin.com/in/abdinasir-mumin-566b30177/)
